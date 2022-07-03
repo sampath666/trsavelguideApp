@@ -1,0 +1,25 @@
+.cd1 {
+  background-color: #ffffff;
+  width: 35vw;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.cd2 {
+  padding: 10px;
+}
+
+.h1 {
+  font-size: 19px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.p1 {
+  color: #64748b;
+  font-size: 18px;
+}
